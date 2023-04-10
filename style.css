@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://wallpapercave.com/dwp1x/wp2910889.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+.hora {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: #C0C0C0;
+    font-size: 150px;
+}
